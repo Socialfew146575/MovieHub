@@ -13,3 +13,4 @@ MoviesHub UI is a simple React application that allows users to search for movie
 - React
 - Axios (for API calls)
 - CSS for styling
+![image](https://github.com/user-attachments/assets/b18c9d19-4f13-45ee-9e0f-760f6ddf2c49)
